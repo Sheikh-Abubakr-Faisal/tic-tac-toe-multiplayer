@@ -21,7 +21,7 @@ A classic **Tic Tac Toe** game that lets you play against a friend in real-time 
 
 ## 🎯 Live Demo
 
-soon...
+[Click here to play](https://sheikh-abubakr-faisal.github.io/tic-tac-toe-multiplayer/)
 
 ## 👨‍💻 Author
 
